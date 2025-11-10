@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/257079.m3u8
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/691643.m3u8
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/278572.m3u8
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/691642.m3u8
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/158254.m3u8
+http://dmtn-tv.com:8080/live/6323fza0503/xzFMrVcwrw/691640.m3u8
